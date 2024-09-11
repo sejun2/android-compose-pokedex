@@ -2,6 +2,11 @@
     <img src="https://github.com/Origogi/Origogi/assets/35194820/9e949040-9ce2-43dc-a68d-19e0eccea54e">
 </div>
 
+# TODO List
+ - [ ] Migrate project to Multi-moduled architecture
+ - [ ] Add sliced test
+ - [ ] Add UI test
+
 # Android Compose Pokedex
 
 This Pokedex app was built using Android Compose, allowing users to explore and search for Pokémon with a beautifully designed interface.
